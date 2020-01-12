@@ -1,6 +1,6 @@
 # Unix Shell scripts
 	:smile:
-![PasswordGenerator](https://ibb.co/c3GN177)
+![PasswordGenerator](passwdGen.png)
 
 
 > We're living the future so
